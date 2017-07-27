@@ -1,0 +1,15 @@
+Ideas:
+
+Purpose of the app is to be able to easly find the notes that you need.
+Example search fields:
+- artist
+- song name
+- scale
+
+The info should contain the song book & page on which the notes can be find.
+If that's a digital copy - file location
+It also should contain back track link (or location on disk) + original track (ex. from spotify)
+
+It should handle song books as well as separate notes sheets & digital files.
+Adding new info should be easy - in case of a book ISBN should be enough to put all the info into the
+storage. While adding the link to original track should be suggested.
